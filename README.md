@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **atharva.dudhe@gmail.com**
 
-- ⚡2025 goals **Contribute to 3 open-source projects and build something that actually helps people**
+- ⚡2025 goals: **Contribute to 3 open-source projects and build something that actually helps people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
